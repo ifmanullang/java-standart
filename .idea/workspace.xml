@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a6c7c59-dfb1-40cc-83fa-0d05e92b187e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-standart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericType/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericType/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericType/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericType/DataGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericType/MainData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericType/MainDataGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericType/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericType/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numberClass/ConvertMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numberClass/MainScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numberClass/mainBigNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass/MainString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass/MainStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass/MainStringBuilderIrfan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass/MainStringIrfan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass/MainStringJoiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringClass/MainTokenizer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IvjlmF98redshhRREaz9ULnwg8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.MainDataGeneric">
+    <configuration name="ConvertMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numberClass.ConvertMain" />
+      <module name="java-standart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="numberClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericType.MainData" />
+      <module name="java-standart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="genericType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainDataGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericType.MainDataGeneric" />
+      <module name="java-standart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="genericType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numberClass.MainScanner" />
+      <module name="java-standart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="numberClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainBigNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numberClass.mainBigNumber" />
+      <module name="java-standart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="numberClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainDataGeneric" />
+        <item itemvalue="Application.MainData" />
+        <item itemvalue="Application.MainScanner" />
+        <item itemvalue="Application.mainBigNumber" />
+        <item itemvalue="Application.ConvertMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a6c7c59-dfb1-40cc-83fa-0d05e92b187e" name="Changes" comment="" />
+      <created>1671069110207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671069110207</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_standart$ConvertMain.ic" NAME="ConvertMain Coverage Results" MODIFIED="1671074107567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>numberClass.*</FILTER>
+    </SUITE>
+  </component>
+</project>
